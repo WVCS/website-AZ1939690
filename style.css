@@ -1,3 +1,39 @@
-body {
+body{
+  background-color:#FFC0CB;
+}
+h2{
+  color:#AA336A;
+  font-size:400%;
+  letter-spacing:5px;
+  text-decoration:underline;
+}
+p{
+  color:#AA336A;
+  font-size: 200%;
+}
+img{
+  border: dotted #AA336A 5px;
 
+}
+iframe{
+  border: dashed #AA336A 5px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+  width; 100%;
+}
+li {
+  float: left;
+}
+li a{
+  padding: 50px;
+  border-style: dashed;
+  color: #AA336A;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: purple;
+  color:yellow;
 }
