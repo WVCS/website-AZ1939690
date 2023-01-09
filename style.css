@@ -28,10 +28,11 @@ li {
   float: left;
 }
 li a{
-  padding: 50px;
+  padding: 30px;
   border-style: dashed;
   color: #AA336A;
   text-decoration-line: none;
+  font-size: 130%;
 }
 li a:hover{
   background-color: purple;
